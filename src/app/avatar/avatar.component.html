@@ -11,26 +11,26 @@
   
     <!-- Dropdowns for customization -->
     <div>
-        <label>Skin Color:</label>
-        <select (change)="changeSkin($event)">
-          <option *ngFor="let color of skinColors" [value]="color">{{color}}</option>
-        </select>
-      </div>
-      
-      <div>
-        <label>Hair Style:</label>
-        <select (change)="changeHair($event)">
-          <option *ngFor="let color of hairColors" [value]="color">{{color}}</option>
-        </select>
-      </div>
-      
-      <div>
-        <label>Clothes Style:</label>
-        <select (change)="changeClothes($event)">
-          <option *ngFor="let color of clothesColors" [value]="color">{{color}}</option>
-        </select>
-      </div>
-            
+      <label>Skin Color:</label>
+      <select (change)="changeSkin($event)">
+        <option *ngFor="let color of skinColors" [value]="color">{{color}}</option>
+      </select>
+    </div>
+  
+    <div>
+      <label>Hair Style:</label>
+      <select (change)="changeHair($event)">
+        <option *ngFor="let color of hairColors" [value]="color">{{color}}</option>
+      </select>
+    </div>
+  
+    <div>
+      <label>Clothes Style:</label>
+      <select (change)="changeClothes($event)">
+        <option *ngFor="let color of clothesColors" [value]="color">{{color}}</option>
+      </select>
+    </div>
+  </div>
   
   <button *ngIf="!showAvatar" (click)="toggleAvatar()">Create Avatar</button>
   
