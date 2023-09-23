@@ -1,0 +1,18 @@
+<svg width="90" height="81" viewBox="0 0 90 81" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Face">
+<g id="Mouth/Default">
+<path id="Mouth" fill-rule="evenodd" clip-rule="evenodd" d="M30 67C30 74.732 36.268 81 44 81C51.732 81 58 74.732 58 67" fill="black" fill-opacity="0.7"/>
+</g>
+<g id="Nose/Default">
+<path id="Nose" fill-rule="evenodd" clip-rule="evenodd" d="M32 48C32 52.4183 37.3726 56 44 56C50.6274 56 56 52.4183 56 48" fill="black" fill-opacity="0.16"/>
+</g>
+<g id="Eyes/Default &#240;&#159;&#152;&#128;">
+<path id="Eye" d="M18 36C21.3137 36 24 33.3137 24 30C24 26.6863 21.3137 24 18 24C14.6863 24 12 26.6863 12 30C12 33.3137 14.6863 36 18 36Z" fill="black" fill-opacity="0.6"/>
+<path id="Eye_2" d="M70 36C73.3137 36 76 33.3137 76 30C76 26.6863 73.3137 24 70 24C66.6863 24 64 26.6863 64 30C64 33.3137 66.6863 36 70 36Z" fill="black" fill-opacity="0.6"/>
+</g>
+<g id="Eyebrow/Natural/Up Down Natural">
+<path id="Eye Browse Reddit" fill-rule="evenodd" clip-rule="evenodd" d="M10.7664 1.57845L11.6773 1.17582C16.9191 -0.905266 24.8645 -0.0328729 29.7227 2.29912C30.2898 2.57149 29.9022 3.45194 29.3211 3.40711C14.4022 2.25602 4.35829 11.5526 0.946087 17.8471C0.844921 18.0337 0.539152 18.0549 0.463534 17.8808C-1.84372 12.5621 4.91345 3.89615 10.7664 1.57845Z" fill="black" fill-opacity="0.6"/>
+<path id="Eyebrow" fill-rule="evenodd" clip-rule="evenodd" d="M74.9927 12.0698C80.7543 12.8431 89.7389 17.8649 88.9875 23.6775C88.9629 23.8677 88.6751 23.927 88.5509 23.7682C86.0644 20.58 66.839 15.8962 59.8375 16.8744C59.1968 16.9641 58.7737 16.3027 59.2108 15.8899C62.9552 12.3545 69.8314 11.3719 74.9927 12.0698Z" fill="black" fill-opacity="0.6"/>
+</g>
+</g>
+</svg>

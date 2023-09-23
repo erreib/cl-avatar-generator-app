@@ -1,5 +1,8 @@
-import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
+import { NgModule } from '@angular/core';
+
+// Import HttpClientModule
+import { HttpClientModule } from '@angular/common/http';
 
 import { AppComponent } from './app.component';
 import { AvatarComponent } from './avatar/avatar.component';
@@ -10,7 +13,8 @@ import { AvatarComponent } from './avatar/avatar.component';
     AvatarComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    HttpClientModule  // Add HttpClientModule here
   ],
   providers: [],
   bootstrap: [AppComponent]

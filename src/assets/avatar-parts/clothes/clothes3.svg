@@ -1,0 +1,17 @@
+<svg width="128" height="81" viewBox="0 0 128 81" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Clothing/Overall">
+<mask id="mask0_1413_289" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="128" height="81">
+<g id="react mask 901">
+<path id="Vector" fill-rule="evenodd" clip-rule="evenodd" d="M26 0.688354V45H102V0.688354C111.363 1.98932 120.15 5.0908 128 9.63182L128 81H119H9H0V9.63181C7.85005 5.0908 16.637 1.98932 26 0.688354Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_1413_289)">
+<path id="Overall" fill-rule="evenodd" clip-rule="evenodd" d="M26 0.688354V45H102V0.688354C111.363 1.98932 120.15 5.0908 128 9.63182L128 81H119H9H0V9.63181C7.85005 5.0908 16.637 1.98932 26 0.688354Z" fill="#B7C1DB"/>
+<g id="Color/Palette/Gray 01">
+<path id="&#240;&#159;&#150;&#141;Color" d="M196 -29H-68V81H196V-29Z" fill="#FF488E"/>
+</g>
+<path id="Button" d="M13 59C15.7614 59 18 56.7614 18 54C18 51.2386 15.7614 49 13 49C10.2386 49 8 51.2386 8 54C8 56.7614 10.2386 59 13 59Z" fill="#F4F4F4"/>
+<path id="Button_2" d="M115 59C117.761 59 120 56.7614 120 54C120 51.2386 117.761 49 115 49C112.239 49 110 51.2386 110 54C110 56.7614 112.239 59 115 59Z" fill="#F4F4F4"/>
+</g>
+</g>
+</svg>
